@@ -1,7 +1,7 @@
 ---
 layout: toppage
 title: Welcome to my Top Page
-description: 何
+description: テスト
 lang: ja_JP
 ---
 ## Welcome to my Top Page
